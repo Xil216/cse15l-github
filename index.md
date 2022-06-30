@@ -6,3 +6,7 @@ _Italic_
 **bold**
 
 ' system.out.println("Hello world!"); '
+ * Apple
+**_bold and italic_**
+
+![alt](i20.png)
